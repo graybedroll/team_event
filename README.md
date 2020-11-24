@@ -1,7 +1,7 @@
 # team_event
 cmpm 35 project 2
 
-Team Members: Stanley Caldwell, Thea Gamez, Kendrick Le
+Team Members: Stanley Caldwell (kamcaldw@ucsc.edu), Thea Gamez (afgamez@ucsc.edu), Kendrick Le (kekhle@ucsc.edu)
 
 Inspiration Links:
 https://www.tutorialsteacher.com/d3js/create-bar-chart-using-d3js
